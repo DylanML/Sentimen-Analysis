@@ -1,0 +1,1 @@
+if(Score > 0, "Positivo", if(Score < 0, "Negativo", if(Score ==0, "Neutral", "")))
