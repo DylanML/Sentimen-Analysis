@@ -1,4 +1,4 @@
 # Sentiment-Analysis
 Resultados del análisis de sentimientos realizado en las plataformas de: Google Colaboratory, RapidMiner y MonkeyLearn.
 
-*Deslizar hacia la derecha para visualizar resultados* ------>
+*Al momento de abrir los archivos csv deslizar hacia la derecha para visualizar resultados* ------>
